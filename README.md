@@ -6,7 +6,7 @@ Vytvoř vícestránkový web pro e-shop s elektronikou.
 
 ## Zadání
 
-1. Do všech stránek vlož hlavičku s nadpisem "E-shop s elektronikou".
+1. Do všech stránek vkládej hlavičku s nadpisem „E-shop s elektronikou“.
 
 1. Na úvodní stránce vypiš dva odkazy na kategorie „Počítače“ a Telefony“.
 
@@ -24,7 +24,7 @@ Vytvoř vícestránkový web pro e-shop s elektronikou.
 
 1. Vylepši CSS. Omez například stránce šířku, aby se na velkých obrazovkách moc neroztahovala. Přidej hlavičce padding. Nastav bezpatkové písmo.
 
-1. Přidej na jednotlivé podstránky podnadpisy, ať je jasnější, co na nich je.
+1. Přidej na jednotlivé podstránky podnadpisy, ať je jasnější, co na nich je. „Kategorie“, „Počítače“, „Telefony“.
 
 1. Nasaď stránky na GitHub pages.
 
