@@ -26,4 +26,6 @@ Vytvoř vícestránkový web pro e-shop s elektronikou.
 
 1. Přidej na jednotlivé podstránky podnadpisy, ať je jasnější, co na nich je.
 
+1. Nasaď stránky na GitHub pages.
+
 1. Přidej další podstránky. Třeba další kategorii nebo různé telefony a původní text, že jsou vyprodané nahraď za odkazy.
