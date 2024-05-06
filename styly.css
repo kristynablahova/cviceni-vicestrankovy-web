@@ -3,3 +3,7 @@ header {
     padding: 2em;
     font-size: 25px;
 }
+body {
+    max-width: 1000px;
+    margin: 2em auto;
+}
